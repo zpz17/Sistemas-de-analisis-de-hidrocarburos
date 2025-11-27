@@ -4,7 +4,7 @@ Este proyecto analiza la demanda y precios de hidrocarburos utilizando **Power B
 
 ## 📊 Vista Previa del Dashboard
 
-![Dashboard Principal](NOMBRE_DE_TU_IMAGEN.jpg)
+![Dashboard Principal](dashboard_hidrocarburos1.png)
 
 ## 🛠 Tecnologías Usadas
 * **Power BI:** Visualización y modelado de datos.
